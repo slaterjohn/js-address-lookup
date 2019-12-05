@@ -1,0 +1,14 @@
+
+	/* Core CSS */
+
+	.jls-address-preview--hidden,
+	.jls-address-lookup--hidden,
+	.jls-manual-address--hidden {
+		display: none;
+	}
+
+	.jls-manual-address {
+		border: 0;
+		padding: 0;
+		margin: 0;
+	}
